@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1264603247727104148}
-  m_LocalRotation: {x: 0.19011277, y: -0.80180204, z: 0.45900166, w: 0.33209658}
+  m_LocalRotation: {x: 0.18986781, y: -0.80214703, z: 0.45838156, w: 0.3322601}
   m_LocalPosition: {x: 1, y: 3, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -93,7 +93,7 @@ AimConstraint:
   m_IsContraintActive: 1
   m_IsLocked: 1
   m_Sources:
-  - sourceTransform: {fileID: 0}
+  - sourceTransform: {fileID: 1397675147496537695}
     weight: 1
 --- !u!95 &1264603247727104151
 Animator:
